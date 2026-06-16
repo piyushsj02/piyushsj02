@@ -1,4 +1,3 @@
-```markdown
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Piyush Jadhav</h1>
@@ -24,7 +23,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/piyush-jadhav-97697b244" target="_blank">
+  <a href="https://www.linkedin.com/in/piyush-jadhav-97697b244" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
@@ -106,5 +105,5 @@
 - AWS & Docker
 - Kubernetes
 - Performance Optimization
-```
+
 
