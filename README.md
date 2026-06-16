@@ -1,11 +1,9 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 <h1 align="center">Hi 👋, I'm Piyush Jadhav</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend Engineer (Java + Spring Boot)</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=000000&style=flat" />
-</p>
+<!-- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=piyushsj02&label=Profile%20views&color=000000&style=flat" />
+</p> -->
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
@@ -43,6 +41,11 @@
 - Microservices
 - Apache Kafka
 - JUnit & Mockito
+
+#### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,js,html,css,bootstrap,tailwind" />
+</p>
 
 #### 🗄️ Database
 <p>
